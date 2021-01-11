@@ -1,0 +1,5 @@
+server:
+  port: 3001
+ 
+version:
+  message: 第一个版本
